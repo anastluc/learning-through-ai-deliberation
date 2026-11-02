@@ -1,0 +1,55 @@
+code,section,scale,item,response_scale,column_header
+CT1,Critical thinking (self-description),CT,I often question ideas or viewpoints presented in this course,1 Not at all true for me … 5 Very true for me,DESCRIBE YOURSELF (Critical Thinking) [I often question ideas or viewpoints presented in this course]
+CT2,Critical thinking (self-description),CT,I try to evaluate evidence before accepting conclusions,1 Not at all true for me … 5 Very true for me,DESCRIBE YOURSELF (Critical Thinking) [I try to evaluate evidence before accepting conclusions]
+CT3,Critical thinking (self-description),CT,I connect ideas from this course to real-world urban planning issues,1 Not at all true for me … 5 Very true for me,DESCRIBE YOURSELF (Critical Thinking) [I connect ideas from this course to real-world urban planning issues]
+CT4,Critical thinking (self-description),CT,I consider alternative perspectives when discussing planning problems,1 Not at all true for me … 5 Very true for me,DESCRIBE YOURSELF (Critical Thinking) [I consider alternative perspectives when discussing planning problems]
+CT5,Critical thinking (self-description),CT,I try to develop my own interpretations rather than just memorizing content,1 Not at all true for me … 5 Very true for me,DESCRIBE YOURSELF (Critical Thinking) [I try to develop my own interpretations rather than just memorizing content]
+SR1,Self-regulation (self-description),SR,I set goals for my learning in this course.,1 Not at all true for me … 5 Very true for me,DESCRIBE YOURSELF (Self-Regulation) [I set goals for my learning in this course.]
+SR2,Self-regulation (self-description),SR,I monitor my understanding of course material while studying.,1 Not at all true for me … 5 Very true for me,DESCRIBE YOURSELF (Self-Regulation) [I monitor my understanding of course material while studying.]
+SR3,Self-regulation (self-description),SR,"When I do not understand something, I try to figure it out on my own.",1 Not at all true for me … 5 Very true for me,"DESCRIBE YOURSELF (Self-Regulation) [When I do not understand something, I try to figure it out on my own.]"
+SR4,Self-regulation (self-description),SR,I adjust my study strategies when needed to improve my learning.,1 Not at all true for me … 5 Very true for me,DESCRIBE YOURSELF (Self-Regulation) [I adjust my study strategies when needed to improve my learning.]
+SR5,Self-regulation (self-description),SR,I persist in studying even when the material is difficult.,1 Not at all true for me … 5 Very true for me,DESCRIBE YOURSELF (Self-Regulation) [I persist in studying even when the material is difficult.]
+LA1,Learning approach during the assignment,DEEP,I try to relate ideas from this experience to previous knowledge.,1 Not at all true for me … 5 Very true for me,While taking part to this assignment..  [I try to relate ideas from this experience to previous knowledge.]
+LA2,Learning approach during the assignment,SURF,I focus on memorizing facts rather than understanding concepts.,1 Not at all true for me … 5 Very true for me,While taking part to this assignment..  [I focus on memorizing facts rather than understanding concepts.]
+LA3,Learning approach during the assignment,DEEP,I find myself interested in the topics my group is working on.,1 Not at all true for me … 5 Very true for me,While taking part to this assignment..  [I find myself interested in the topics my group is working on.]
+LA4,Learning approach during the assignment,SURF,I work just enough to complete the assignment or prepare the review.,1 Not at all true for me … 5 Very true for me,While taking part to this assignment..  [I work just enough to complete the assignment or prepare the review.]
+LA5,Learning approach during the assignment,DEEP,"I try to understand concepts thoroughly, not just memorize them.",1 Not at all true for me … 5 Very true for me,"While taking part to this assignment..  [I try to understand concepts thoroughly, not just memorize them.]"
+LA6,Learning approach during the assignment,SURF,I find this assignment requires me to learn the used platforms without understanding the value of deliberation.,1 Not at all true for me … 5 Very true for me,While taking part to this assignment..  [I find this assignment requires me to learn the used platforms without understanding the value of deliberation.]
+LA7,Learning approach during the assignment,DEEP,Working for this assignment sometimes gives me a feeling of personal satisfaction.,1 Not at all true for me … 5 Very true for me,While taking part to this assignment..  [Working for this assignment sometimes gives me a feeling of personal satisfaction.]
+LA8,Learning approach during the assignment,SURF,I tend to rely on commonplace learning rather than critical reflection.,1 Not at all true for me … 5 Very true for me,While taking part to this assignment..  [I tend to rely on commonplace learning rather than critical reflection.]
+LA9,Learning approach during the assignment,DEEP,I make an effort to see how different points of view can co-exist in contested topics.,1 Not at all true for me … 5 Very true for me,While taking part to this assignment..  [I make an effort to see how different points of view can co-exist in contested topics.]
+LA10,Learning approach during the assignment,SURF,I often feel overwhelmed by the amount of meaning nuances I need to understand and consider.,1 Not at all true for me … 5 Very true for me,While taking part to this assignment..  [I often feel overwhelmed by the amount of meaning nuances I need to understand and consider.]
+LG1,Perceived learning gain,LG,Understanding of key urban planning concepts,1 No gain … 5 Great gain, [Understanding of key urban planning concepts]
+LG2,Perceived learning gain,LG,Ability to analyze urban problems,1 No gain … 5 Great gain, [Ability to analyze urban problems]
+LG3,Perceived learning gain,LG,Ability to apply theory to real-world cases,1 No gain … 5 Great gain, [Ability to apply theory to real-world cases]
+LG4,Perceived learning gain,LG,Critical thinking skills,1 No gain … 5 Great gain, [Critical thinking skills]
+LG5,Perceived learning gain,LG,Systems thinking (understanding complex urban systems),1 No gain … 5 Great gain, [Systems thinking (understanding complex urban systems)]
+LG6,Perceived learning gain,LG,Ability to learn independently,1 No gain … 5 Great gain, [Ability to learn independently]
+LG7,Perceived learning gain,LG,Confidence in tackling complex problems,1 No gain … 5 Great gain, [Confidence in tackling complex problems]
+LG8,Perceived learning gain,LG,Ability to work collaboratively,1 No gain … 5 Great gain, [Ability to work collaboratively]
+AC1,Perceived contribution of course activities,AC,Engagement with course materials,1 No gain … 5 Great gain, [Engagement with course materials]
+AC2,Perceived contribution of course activities,AC,Class discussions supported my learning,1 No gain … 5 Great gain, [Class discussions supported my learning]
+AC3,Perceived contribution of course activities,AC,Group projects enhanced my understanding,1 No gain … 5 Great gain, [Group projects enhanced my understanding]
+AC4,Perceived contribution of course activities,AC,Case studies improved my ability to apply knowledge 12,1 No gain … 5 Great gain, [Case studies improved my ability to apply knowledge 12]
+AC5,Perceived contribution of course activities,AC,Feedback from instructors helped me improve,1 No gain … 5 Great gain, [Feedback from instructors helped me improve]
+OV1,Overall assessment of the deliberation assignment,OV,"Overall, I believe that taking part in this assignment improves my learning in this module",1 Not at all true for me … 5 Very true for me,"Always thinking about your experience with this assignment, please indicate how true each statement is for you.
+Use the following scale:
+1 = Not at all true of me
+2 = Slightly true of me
+3 = Moderately true of me
+4 = Mostly true of me
+5 = Very true of me [Overall, I believe that taking part in this assignment improves my learning in this module]"
+OV2,Overall assessment of the deliberation assignment,OV,The experience of technology mediated deliberation (with Bcause.app and Democratic Refelction) changes how I think about urban planning issues,1 Not at all true for me … 5 Very true for me,"Always thinking about your experience with this assignment, please indicate how true each statement is for you.
+Use the following scale:
+1 = Not at all true of me
+2 = Slightly true of me
+3 = Moderately true of me
+4 = Mostly true of me
+5 = Very true of me [The experience of technology mediated deliberation (with Bcause.app and Democratic Refelction) changes how I think about urban planning issues]"
+OV3,Overall assessment of the deliberation assignment,OV,After this technology mediated deliberation I feel more confident addressing real-world planning challenges,1 Not at all true for me … 5 Very true for me,"Always thinking about your experience with this assignment, please indicate how true each statement is for you.
+Use the following scale:
+1 = Not at all true of me
+2 = Slightly true of me
+3 = Moderately true of me
+4 = Mostly true of me
+5 = Very true of me [After this technology mediated deliberation I feel more confident addressing real-world planning challenges]"

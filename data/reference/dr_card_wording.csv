@@ -1,0 +1,31 @@
+experiment,topic,card,dimension_no,dimension,side,wording
+868,Olympics,c1s1,1,Persuasion,1,This convinced me
+868,Olympics,c1s2,1,Persuasion,2,Evidence feels cherry-picked
+868,Olympics,c2s1,2,Trust,1,I trust this speaker
+868,Olympics,c2s2,2,Trust,2,This sounds like a talking point
+868,Olympics,c3s1,3,Resonance,1,This moved me
+868,Olympics,c3s2,3,Resonance,2,I feel distant from this
+868,Olympics,c4s1,4,Fairness,1,A voice is missing here
+868,Olympics,c4s2,4,Fairness,2,Both sides have a point
+868,Olympics,c5s1,5,Framing,1,We're asking the wrong question
+868,Olympics,c5s2,5,Framing,2,This is greenwashing
+869,Housing,c1s1,1,Match with reality,1,This is exactly my experience
+869,Housing,c1s2,1,Match with reality,2,This doesn't describe the Milan I know
+869,Housing,c2s1,2,Who counts,1,A voice is missing
+869,Housing,c2s2,2,Who counts,2,They're talking past someone
+869,Housing,c3s1,3,Honesty,1,They're naming the real problem
+869,Housing,c3s2,3,Honesty,2,This is scapegoating
+869,Housing,c4s1,4,Solution,1,This would actually work
+869,Housing,c4s2,4,Solution,2,The cure is worse than the disease
+869,Housing,c5s1,5,Temperature,1,This moved me
+869,Housing,c5s2,5,Temperature,2,This crossed a line
+870,Parking,c1s1,1,Framing,1,They've identified the real problem
+870,Parking,c1s2,1,Framing,2,This is a small problem dressed up as a big one
+870,Parking,c2s1,2,Responsibility,1,They're blaming the wrong people
+870,Parking,c2s2,2,Responsibility,2,Everyone here has a point
+870,Parking,c3s1,3,Solutions,1,Build it before you fine people
+870,Parking,c3s2,3,Solutions,2,"Without stricter rules, nothing changes"
+870,Parking,c4s1,4,Street use,1,This forgets pedestrians exist
+870,Parking,c4s2,4,Street use,2,This forgets drivers are people too
+870,Parking,c5s1,5,Read,1,This convinced me
+870,Parking,c5s2,5,Read,2,This speaker sounds self-interested

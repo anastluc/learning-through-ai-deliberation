@@ -1,0 +1,17 @@
+group,PAR,BIN,ECH,LNG,FAC,PART,RTN,RLE,POS,STE,PSD,EVI,EMO,EMD,DRD,DRC,DRN,DRS,DRB,DRR,INS,DIG,RED,AIM,draft_PAR,draft_BIN,draft_ECH,draft_LNG,draft_FAC,draft_PART,draft_RTN,draft_RLE,draft_POS,draft_STE,draft_PSD,draft_EVI,draft_EMO,draft_EMD,draft_DRD,draft_DRC,draft_DRN,draft_DRS,draft_DRB,draft_DRR,draft_INS,draft_DIG,draft_RED
+G01,clear,clear,,,clear,clear,clear,,,,,,,,,,,,clear,,,,,clear,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+G02,,,clear,clear,clear,,,,,,,weak,,,,,clear,,,,,clear,,clear,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0
+G03,,,,,,,,weak,clear,,clear,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+G05,,clear,,,weak,,,clear,,,,,,,,,,,,,weak,clear,clear,clear,0,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+G06,,,,,,,,,,,,clear,,,clear,,,,,,,,,clear,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+G07,,,,,,,,,,,clear,,,,,clear,,,,,clear,,,weak,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0
+G08,clear,,clear,,weak,clear,,clear,clear,,,clear,,,,,,,,,clear,,,,1,0,1,0,1,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+G09,,clear,clear,,clear,,clear,,clear,,,,,,,,,clear,,,,,clear,clear,0,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+G10,,,,,,weak,,,clear,clear,,,,,,,,,,,,,weak,weak,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+G11,clear,,,,clear,,clear,,clear,,,,clear,clear,clear,,,,,,,,,clear,1,0,0,0,1,0,1,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+G12,clear,clear,,clear,clear,,,,clear,weak,,clear,,,,clear,,,,,,,,weak,1,1,0,1,1,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+G13,clear,,,,,,,clear,,,,,,,,,,,,,,clear,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+G14,weak,,,,clear,weak,clear,,weak,clear,,clear,,,,,,,,,,,clear,,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1
+G15,clear,clear,,,,,,clear,,clear,,,clear,,,,,,,,clear,,clear,,1,1,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,1,0,1
+G16,,,,,weak,,weak,,,,clear,,,clear,,,,,,clear,,,,clear,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0
+G17,,,,,,,,,clear,clear,weak,,,,,,,,,clear,,,weak,clear,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1

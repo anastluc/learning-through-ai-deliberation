@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use these data or code, please cite the chapter and this repository."
+title: "A deliberative loop for AI-supported collective sensemaking: data and code"
+type: dataset
+authors:
+  - family-names: Concilio
+    given-names: Grazia
+    affiliation: Politecnico di Milano, DAStU
+  - family-names: Anastasiou
+    given-names: Lucas
+    affiliation: Knowledge Media Institute, The Open University
+  - family-names: De Ambrosis
+    given-names: Federico
+    affiliation: Politecnico di Milano, DAStU
+  - family-names: De Liddo
+    given-names: Anna
+    affiliation: Knowledge Media Institute, The Open University
+date-released: 2026-11-02
+version: 0.1.0
+license: MIT

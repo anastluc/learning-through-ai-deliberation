@@ -1,0 +1,220 @@
+post,date,debate,group,author,kind,attached_to,attached_group,nested,words,note,role_voice,engagement,engages,reasons,evidence,counter_view,proposal,facilitation
+H001,2026-03-17,Housing,G14,G14 facilitator A,Position,Top level (new position),,No,93,Frames short-term rentals as the main driver of prices.,Facilitator,,,,None,,,Leading question
+H002,2026-03-18,Housing,G05,G05 member A,Pro argument,Facilitator question or post,G14,No,109,,Explicit role voice,None,,Yes,None,Yes,Concrete,
+H003,2026-03-18,Housing,G05,G05 member A,Con argument,Facilitator question or post,G14,No,116,,Explicit role voice,None,,Yes,None,Yes,Direction,
+H004,2026-03-20,Housing,G05,G05 member B,Pro argument,Facilitator question or post,G14,No,79,,Role-consistent,None,,Yes,None,No,Concrete,
+H005,2026-03-20,Housing,G05,G05 member B,Con argument,Facilitator question or post,G14,No,103,,Explicit role voice,None,,Yes,None,No,Direction,
+H006,2026-03-21,Housing,G08,G08 member A,Pro argument,Facilitator question or post,G14,No,167,Answers G05's concern with medium-term housing alongside restrictions.,Explicit role voice,Integrates,G05,Yes,Unsourced facts,Yes,Concrete + actors + conflicts,
+H007,2026-03-21,Housing,G08,G08 member A,Con argument,Facilitator question or post,G14,No,26,,Not role-identifiable,None,,Yes,None,Yes,None,
+H008,2026-03-22,Housing,G12,G12 member A,Pro argument,Facilitator question or post,G14,No,100,,Not role-identifiable,None,,Yes,None,No,Direction,
+H009,2026-03-22,Housing,G12,G12 member A,Con argument,Facilitator question or post,G14,No,208,,Explicit role voice,None,,Yes,None,No,Concrete,
+H010,2026-03-30,Housing,G04,G04 member A,Con argument,Facilitator question or post,G14,No,111,Re-Housin EU project.,Explicit role voice,Generic,,Yes,Sourced,Yes,Direction,
+H011,2026-03-30,Housing,G04,G04 member A,Pro argument,Facilitator question or post,G14,No,95,,Role-consistent,Generic,,Yes,None,Yes,Concrete,
+H012,2026-03-30,Housing,G04,G04 member B,Pro argument,Facilitator question or post,G14,No,155,"120-day threshold, two-unit cap, incentives; not a ban.",Explicit role voice,None,,Yes,None,Yes,Concrete + actors + conflicts,
+H013,2026-03-30,Housing,G05,G05 member C,Con argument,Facilitator question or post,G14,No,92,Contests G04's 120-day threshold.,Role-consistent,Specific,G04,Yes,None,Yes,Direction,
+H014,2026-03-30,Housing,G15,G15 member A,Pro argument,Facilitator question or post,G14,No,127,"Landlords' group member writes as an exchange student, for restrictions.",Out of role,None,,Yes,Unsourced facts,No,Direction,
+H015,2026-03-30,Housing,G14,G14 facilitator A,Position,Top level (new position),,No,72,"Suggests benefits go ""just for the few lucky stores"".",Facilitator,,,,None,,,Leading question
+H016,2026-03-30,Housing,G14,G14 facilitator A,Position,Top level (new position),,No,53,Presupposes the loss of local communities.,Facilitator,,,,None,,,Leading question
+H017,2026-03-30,Housing,G05,G05 member A,Con argument,Facilitator question or post,G14,No,115,,Explicit role voice,None,,Yes,None,No,None,
+H018,2026-03-30,Housing,G05,G05 member C,Con argument,Facilitator question or post,G14,No,103,Text cut off.,Not role-identifiable,None,,Yes,None,No,None,
+H019,2026-03-30,Housing,G05,G05 member C,Pro argument,Facilitator question or post,G14,No,42,,Role-consistent,None,,Yes,None,No,None,
+H020,2026-03-30,Housing,G05,G05 member B,Con argument,Another group,G12,Yes,35,Nested reply to G12.,Not role-identifiable,Specific,G12,Yes,None,No,Direction,
+H021,2026-03-30,Housing,G04,G04 member B,Con argument,Another group,G05,Yes,166,Nested reply adapting G04's proposal to G05's objection.,Role-consistent,Integrates,G05,Yes,Unsourced facts,Yes,Concrete,
+H022,2026-03-31,Housing,G08,G08 member A,Con argument,Facilitator question or post,G14,No,135,"Agrees with G05's earlier comments, then argues long-term rentals give the same benefits.",Role-consistent,Specific,G05,Yes,None,Yes,Direction,
+H023,2026-03-31,Housing,G15,G15 member A,Pro argument,Facilitator question or post,G14,No,84,Writes as an exchange student.,Out of role,None,,Yes,None,Yes,None,
+H024,2026-04-01,Housing,G14,G14 facilitator A,Position,Top level (new position),,No,86,Builds on the medium-term rental idea raised by participants.,Facilitator,,,,None,,,Synthesis
+H025,2026-04-06,Housing,G12,G12 member B,Con argument,Facilitator question or post,G14,No,168,,Role-consistent,None,,Yes,None,Yes,None,
+H026,2026-04-06,Housing,G12,G12 member B,Con argument,Facilitator question or post,G14,No,120,,Explicit role voice,None,,Yes,None,Yes,None,
+H027,2026-04-12,Housing,G14,G14 facilitator A,Position,Top level (new position),,No,81,Builds on participants' zoning suggestions.,Facilitator,,,,None,,,Synthesis
+H028,2026-04-13,Housing,G05,G05 member B,Pro argument,Facilitator question or post,G14,No,231,"CIN register, SUE, EU Regulation 2024/1028.",Explicit role voice,None,,Yes,Sourced,No,Concrete,
+H029,2026-04-13,Housing,G05,G05 member B,Pro argument,Facilitator question or post,G14,No,93,,Explicit role voice,None,,Yes,None,No,None,
+H030,2026-04-13,Housing,G05,G05 member B,Con argument,Facilitator question or post,G14,No,57,,Not role-identifiable,None,,Yes,None,Yes,None,
+H031,2026-04-13,Housing,G08,G08 member B,Pro argument,Facilitator question or post,G14,No,171,Málaga.,Explicit role voice,None,,Yes,Unsourced facts,No,Direction,
+H032,2026-04-13,Housing,G08,G08 member B,Con argument,Facilitator question or post,G14,No,104,,Explicit role voice,None,,Yes,None,Yes,None,
+H033,2026-04-18,Housing,G14,G14 facilitator A,Position,Top level (new position),,No,158,Barcelona figures; states the measure's limit.,Facilitator,,,,Unsourced facts,,,Information input
+H034,2026-04-20,Housing,G15,G15 member A,Pro argument,Facilitator question or post,G14,No,168,Writes as an exchange student; warns landlords may exploit the category.,Out of role,None,,Yes,None,Yes,Concrete,
+H035,2026-04-20,Housing,G12,G12 member A,Pro argument,Facilitator question or post,G14,No,136,Deutsche Bank Research.,Explicit role voice,None,,Yes,Sourced,No,Concrete,
+H036,2026-04-21,Housing,G05,G05 member C,Con argument,Facilitator question or post,G14,No,159,,Explicit role voice,None,,Yes,None,Yes,Concrete,
+H037,2026-04-26,Housing,G14,G14 facilitator A,Con argument,Another group,G05,Yes,145,Nested reply to G05 with Inside Airbnb data.,Facilitator,,,,Sourced,,,Follow-up to a post
+H038,2026-04-27,Housing,G15,G15 member B,Con argument,Facilitator question or post,G14,No,75,,Explicit role voice,Generic,,Yes,None,Yes,None,
+H039,2026-04-27,Housing,G15,G15 member C,Con argument,Facilitator question or post,G14,No,115,,Explicit role voice,Generic,,Yes,Unsourced facts,Yes,Direction,
+H040,2026-04-27,Housing,G15,G15 member B,Pro argument,Facilitator question or post,G14,No,120,,Explicit role voice,Generic,,Yes,None,Yes,None,
+H041,2026-04-27,Housing,G15,G15 member B,Con argument,Facilitator question or post,G14,No,132,,Explicit role voice,Generic,,Yes,None,Yes,Direction,
+H042,2026-04-27,Housing,G14,G14 facilitator A,Pro argument,Another group,G05,Yes,81,Nested reply to G05.,Facilitator,,,,Unsourced facts,,,Follow-up to a post
+H043,2026-04-27,Housing,G14,G14 facilitator A,Position,Top level (new position),,No,139,The Guardian.,Facilitator,,,,Sourced,,,Information input
+H044,2026-04-27,Housing,G05,G05 member B,Con argument,Facilitator question or post,G14,No,75,,Role-consistent,None,,Yes,None,No,None,
+H045,2026-04-27,Housing,G08,G08 member A,Con argument,Facilitator question or post,G14,No,51,"""I completely agree with you"" (G05).",Explicit role voice,Specific,G05,Yes,None,No,None,
+H046,2026-04-27,Housing,G08,G08 member A,Pro argument,Facilitator question or post,G14,No,43,,Not role-identifiable,None,,Yes,None,Yes,Direction,
+H047,2026-04-27,Housing,G08,G08 member A,Con argument,Facilitator question or post,G14,No,49,,Role-consistent,None,,Yes,None,Yes,None,
+H048,2026-04-27,Housing,G15,G15 member C,Pro argument,Facilitator question or post,G14,No,216,Rebuts G05's Dubai comparison.,Explicit role voice,Specific,G05,Yes,Unsourced facts,Yes,Concrete,
+H049,2026-04-28,Housing,G14,G14 facilitator A,Position,Top level (new position),,No,197,"Summary naming a G05 member, a G08 member and a G15 member.",Facilitator,,,,None,,,Synthesis
+H050,2026-05-04,Housing,G15,G15 member C,Pro argument,Facilitator question or post,G14,No,262,,Explicit role voice,None,,Yes,None,No,Concrete,
+H051,2026-05-04,Housing,G15,G15 member B,Pro argument,Facilitator question or post,G14,No,238,Answers G05/G08 by name; offers to leave Airbnb under a Municipal Guarantee.,Explicit role voice,Integrates,"G05, G08",Yes,Unsourced facts,Yes,Concrete + actors + conflicts,
+H052,2026-05-07,Housing,G14,G14 facilitator A,Position,Top level (new position),,No,56,Builds on G08's earlier proposal.,Facilitator,,,,None,,,Synthesis
+H053,2026-05-10,Housing,G14,G14 facilitator A,Position,Top level (new position),,No,115,Builds on a G15 member's point.,Facilitator,,,,Unsourced facts,,,Synthesis
+H054,2026-05-11,Housing,G08,G08 member A,Pro argument,Facilitator question or post,G14,No,200,CleanBnB; lower threshold to three properties.,Role-consistent,None,,Yes,Sourced,No,Concrete + actors + conflicts,
+H055,2026-05-13,Housing,G12,G12 member B,Pro argument,Another group,G15,Yes,138,"Nested reply: concedes G15's point, combines a cap with public supply.",Explicit role voice,Integrates,G15,Yes,Unsourced facts,Yes,Concrete,
+H056,2026-05-13,Housing,G12,G12 member B,Pro argument,Facilitator question or post,G14,No,147,Adopts G08's threshold proposal (Inside Airbnb).,Role-consistent,Integrates,G08,Yes,Sourced,No,Concrete,
+H057,2026-05-13,Housing,G12,G12 member B,Pro argument,Facilitator question or post,G14,No,162,Lombardy region PNRR source.,Role-consistent,None,,Yes,Sourced,Yes,Concrete,
+H058,2026-05-15,Housing,G15,G15 member B,Pro argument,Facilitator question or post,G14,No,161,Registry by Codice Fiscale; three or more properties = investor.,Explicit role voice,Specific,G08,Yes,None,Yes,Concrete + actors + conflicts,
+H059,2026-05-15,Housing,G15,G15 member B,Pro argument,Facilitator question or post,G14,No,213,Split revenue between dorms and the Municipal Guarantee.,Explicit role voice,None,,Yes,None,Yes,Concrete + actors + conflicts,
+H060,2026-05-16,Housing,G14,G14 facilitator A,Position,Top level (new position),,No,131,"Options a/b/c, citing a G15 member.",Facilitator,,,,None,,,Options toward a decision
+H061,2026-05-18,Housing,G14,G14 facilitator B,Con argument,Facilitator question or post,G14,No,59,Follow-up to a G12 member.,Facilitator,,,,None,,,Follow-up to a post
+H062,2026-05-18,Housing,G14,G14 facilitator B,Con argument,Facilitator question or post,G14,No,47,Loophole challenge to a G08 member.,Facilitator,,,,None,,,Follow-up to a post
+H063,2026-05-18,Housing,G14,G14 facilitator B,Con argument,Facilitator question or post,G14,No,39,Capacity challenge to a G15 member.,Facilitator,,,,None,,,Follow-up to a post
+H064,2026-05-20,Housing,G05,G05 member C,Con argument,Facilitator question or post,G14,No,88,,Explicit role voice,None,,Yes,None,Yes,Direction,
+H065,2026-05-22,Housing,G14,G14 facilitator A,Position,Top level (new position),,No,71,Piano Casa (idealista link).,Facilitator,,,,Sourced,,,Information input
+H066,2026-05-24,Housing,G04,G04 member C,Con argument,Facilitator question or post,G14,No,118,,Role-consistent,None,,Yes,Unsourced facts,No,None,
+H067,2026-05-24,Housing,G04,G04 member A,Con argument,Facilitator question or post,G14,No,153,"Cap ownership, not geography; earmarked tax.",Explicit role voice,Generic,,Yes,None,Yes,Concrete + actors + conflicts,
+H068,2026-05-24,Housing,G04,G04 member C,Con argument,Facilitator question or post,G14,No,110,,Explicit role voice,None,,Yes,Unsourced facts,Yes,Concrete,
+H069,2026-05-24,Housing,G04,G04 member B,Con argument,Facilitator question or post,G14,No,256,Tiered ownership framework.,Explicit role voice,Generic,,Yes,Unsourced facts,Yes,Concrete + actors + conflicts,
+H070,2026-05-25,Housing,G04,G04 member C,Pro argument,Facilitator question or post,G14,No,105,Comune di Milano page.,Role-consistent,None,,Yes,Sourced,No,Concrete,
+H071,2026-05-25,Housing,G04,G04 member B,Pro argument,Facilitator question or post,G14,No,103,Turns G15's guarantee into a Rental Security Fund.,Explicit role voice,Integrates,G15,Yes,None,Yes,Concrete + actors + conflicts,
+H072,2026-05-25,Housing,G08,G08 member A,Pro argument,Facilitator question or post,G14,Yes,133,Nested reply to the facilitator's loophole challenge; EU Regulation.,Role-consistent,None,,Yes,Sourced,Yes,Concrete,
+H073,2026-05-26,Housing,G12,G12 member B,Pro argument,Facilitator question or post,G14,No,165,"""[G15 member] is right""; backs options a and b.",Role-consistent,Integrates,G15,Yes,None,Yes,Concrete + actors + conflicts,
+H074,2026-05-26,Housing,G12,G12 member B,Con argument,Facilitator question or post,G14,No,97,Mi-Tomorrow figures.,Role-consistent,None,,Yes,Sourced,No,Direction,
+H075,2026-05-26,Housing,G12,G12 member B,Pro argument,Another group,G04,Yes,127,"Nested reply: agrees with G04, adds central social housing.",Role-consistent,Integrates,G04,Yes,Unsourced facts,No,Concrete,
+H076,2026-06-02,Housing,G14,G14 facilitator A,Con argument,Another group,G04,Yes,41,Connects a G04 member and a G12 member.,Facilitator,,,,None,,,Synthesis
+H077,2026-06-02,Housing,G14,G14 facilitator A,Pro argument,Facilitator question or post,G14,No,49,Asks how options A and B would be financed and secured.,Facilitator,,,,None,,,Options toward a decision
+H078,2026-06-02,Housing,G14,G14 facilitator A,Pro argument,Facilitator question or post,G14,No,45,Follow-up to a G04 member.,Facilitator,,,,None,,,Follow-up to a post
+H079,2026-06-02,Housing,G14,G14 facilitator A,Position,Top level (new position),,No,133,Vienna model with source.,Facilitator,,,,Sourced,,,Information input
+H080,2026-06-09,Housing,G05,G05 member A,Position,Top level (new position),,No,182,Group's final statement.,Explicit role voice,Generic,,Yes,Sourced,Yes,Concrete + actors + conflicts,
+O082,2026-03-16,Olympics,G01,G01 facilitator A,Position,Top level (new position),,No,10,,Facilitator,,,,None,,,Trade-off question
+O083,2026-03-16,Olympics,G01,G01 facilitator A,Position,Top level (new position),,No,16,,Facilitator,,,,None,,,Trade-off question
+O084,2026-03-18,Olympics,G01,G01 facilitator A,Position,Top level (new position),,No,13,,Facilitator,,,,None,,,Open question
+O085,2026-03-20,Olympics,G02,G02 member A,Pro argument,Facilitator question or post,G01,No,105,Cesane Pariol case.,Role-consistent,None,,Yes,Unsourced facts,No,Direction,
+O086,2026-03-22,Olympics,G02,G02 member B,Con argument,Facilitator question or post,G01,No,300,Maioni quoted with URL; acknowledges ambivalence.,Explicit role voice,None,,Yes,Sourced,Yes,Direction,
+O087,2026-03-23,Olympics,G11,G11 member A,Position,Top level (new position),,No,115,,Role-consistent,None,,Yes,Unsourced facts,No,None,
+O088,2026-03-23,Olympics,G06,G06 member A,Con argument,Facilitator question or post,G01,No,93,"Rio, Athens, London, Beijing cases.",Role-consistent,None,,Yes,Unsourced facts,No,Direction,
+O089,2026-03-23,Olympics,G06,G06 member A,Con argument,Facilitator question or post,G01,No,128,Hosting criteria.,Explicit role voice,None,,Yes,None,No,Concrete,
+O090,2026-03-23,Olympics,G06,G06 member B,Pro argument,Facilitator question or post,G01,No,114,,Explicit role voice,None,,Yes,None,No,Direction,
+O091,2026-03-23,Olympics,G01,G01 facilitator B,Pro argument,Facilitator question or post,G01,No,43,Consideration posed as a question.,Facilitator,,,,None,,,Open question
+O092,2026-03-23,Olympics,G02,G02 member C,Con argument,Facilitator question or post,G01,No,330,Zanna (NPR).,Role-consistent,None,,Yes,Sourced,Yes,Direction,
+O093,2026-03-23,Olympics,G11,G11 member B,Pro argument,Facilitator question or post,G01,No,180,"""From the IOC perspective, I would partly challenge...""",Explicit role voice,None,,Yes,Unsourced facts,Yes,Direction,
+O094,2026-03-28,Olympics,G02,G02 member A,Con argument,Facilitator question or post,G01,No,166,"Takes up G06's ""public support"" condition; olympics.com, Chappelet.",Explicit role voice,Specific,G06,Yes,Sourced,No,Direction,
+O095,2026-03-30,Olympics,G09,G09 member A,Position,Top level (new position),,No,114,,Role-consistent,None,,Yes,None,No,None,
+O096,2026-03-30,Olympics,G01,G01 facilitator B,Con argument,Another group,G09,No,44,Follow-up to G09 inviting other perspectives.,Facilitator,,,,None,,,Follow-up to a post
+O097,2026-03-30,Olympics,G06,G06 member A,Position,Top level (new position),,No,248,"Il Trentino figure; Beijing, Sochi.",Explicit role voice,None,,Yes,Sourced,No,None,
+O098,2026-03-30,Olympics,G01,G01 facilitator B,Con argument,Another group,G11,No,37,Facilitator argues against G11's position.,Facilitator,,,,None,,,Argues a position
+O099,2026-03-30,Olympics,G06,G06 member C,Con argument,Another group,G09,No,92,Challenges G09's positive view.,Explicit role voice,Specific,G09,Yes,Unsourced facts,No,None,
+O100,2026-03-30,Olympics,G06,G06 member B,Con argument,Another group,G11,No,129,"Concedes value of G11's improvements, contests automatic benefit.",Role-consistent,Specific,G11,Yes,None,Yes,Direction,
+O101,2026-03-30,Olympics,G09,G09 member B,Pro argument,Another group,G11,No,56,Extends G11's position from a tourism angle.,Explicit role voice,Specific,G11,Yes,None,No,None,
+O102,2026-03-30,Olympics,G09,G09 member B,Con argument,Another group,G11,No,44,Names a risk to tourism itself.,Role-consistent,Specific,G11,Yes,None,Yes,None,
+O103,2026-04-06,Olympics,G01,G01 facilitator A,Position,Top level (new position),,No,30,Names the two perspectives and asks for a direct response.,Facilitator,,,,None,,,Synthesis
+O104,2026-04-06,Olympics,G01,G01 facilitator A,Pro argument,Facilitator question or post,G01,No,19,Counter-consideration as a question.,Facilitator,,,,None,,,Follow-up to a post
+O105,2026-04-07,Olympics,G11,G11 member A,Pro argument,Another group,G09,No,147,Bocconi and Ca' Foscari estimates.,Role-consistent,Specific,G09,Yes,Sourced,No,None,
+O106,2026-04-07,Olympics,G11,G11 member A,Position,Top level (new position),,No,192,Rebuts G02's abandoned-facilities point with Cortina 1956.,Role-consistent,Specific,G02,Yes,Unsourced facts,Yes,None,
+O107,2026-04-07,Olympics,G11,G11 member A,Con argument,Another group,G06,No,285,French government study; concedes impacts.,Role-consistent,Specific,G06,Yes,Sourced,Yes,None,
+O108,2026-04-09,Olympics,G02,G02 member A,Con argument,Another group,G11,No,188,"Agrees with G11 on long-term development, adds cultural amenities.",Role-consistent,Integrates,G11,Yes,Unsourced facts,Yes,Direction,
+O109,2026-04-11,Olympics,G01,G01 facilitator A,Position,Top level (new position),,No,17,,Facilitator,,,,None,,,Open question
+O110,2026-04-11,Olympics,G01,G01 facilitator A,Con argument,Another group,G06,No,78,Follow-up to G06.,Facilitator,,,,None,,,Follow-up to a post
+O111,2026-04-12,Olympics,G11,G11 member A,Con argument,Another group,G06,No,153,,Role-consistent,Specific,G06,Yes,Unsourced facts,Yes,Direction,
+O112,2026-04-12,Olympics,G11,G11 member A,Pro argument,Facilitator question or post,G01,No,130,Preliminary study and public consultation.,Role-consistent,None,,Yes,Unsourced facts,No,Concrete,
+O113,2026-04-12,Olympics,G11,G11 member C,Pro argument,Facilitator question or post,G01,No,122,,Not role-identifiable,None,,Yes,None,No,Concrete,
+O114,2026-04-13,Olympics,G09,G09 member A,Con argument,Facilitator question or post,G01,No,158,,Not role-identifiable,None,,Yes,None,Yes,Direction,
+O115,2026-04-13,Olympics,G09,G09 member A,Pro argument,Facilitator question or post,G01,No,90,Hosting criteria.,Not role-identifiable,None,,Yes,None,No,Concrete,
+O116,2026-04-14,Olympics,G06,G06 member A,Con argument,Facilitator question or post,G01,No,62,"Accepts G09's inclusivity point and combines it: new venues only in snow-secure, low-risk regions.",Explicit role voice,Integrates,G09,Yes,None,Yes,Concrete,
+O117,2026-04-14,Olympics,G01,G01 facilitator B,Position,Top level (new position),,No,34,,Facilitator,,,,None,,,Open question
+O118,2026-04-14,Olympics,G06,G06 member A,Con argument,Another group,G11,Yes,96,Nested reply to G11 with three web sources.,Role-consistent,Specific,G11,Yes,Sourced,No,None,
+O119,2026-04-15,Olympics,G02,G02 member A,Con argument,Another group,G11,No,132,"immobiliare.it, OMI, Butini.",Role-consistent,Specific,G11,Yes,Sourced,No,None,
+O120,2026-04-17,Olympics,G06,G06 member A,Con argument,Facilitator question or post,G01,No,153,"Partial compatibility, citing the reuse measures G11 had argued.",Explicit role voice,Specific,G11,Yes,None,Yes,None,
+O121,2026-04-17,Olympics,G06,G06 member A,Con argument,Facilitator question or post,G01,No,212,Five measures incl. oversight by environmental groups.,Role-consistent,None,,Yes,None,No,Concrete,
+O122,2026-04-17,Olympics,G06,G06 member A,Position,Top level (new position),,No,152,Concedes Milan 2026 prioritised reuse.,Role-consistent,Generic,,Yes,Unsourced facts,Yes,Direction,
+O123,2026-04-19,Olympics,G01,G01 facilitator B,Position,Top level (new position),,No,24,,Facilitator,,,,None,,,Open question
+O124,2026-04-20,Olympics,G02,G02 member C,Con argument,Facilitator question or post,G01,No,191,,Explicit role voice,None,,Yes,None,No,None,
+O125,2026-04-20,Olympics,G02,G02 member C,Con argument,Facilitator question or post,G01,No,223,Rebuts G11's sliding-centre example; CIPRA source.,Role-consistent,Specific,G11,Yes,Sourced,No,Direction,
+O126,2026-04-20,Olympics,G02,G02 member C,Pro argument,Another group,G06,No,379,"Nature 2021 paper, SGR reports in support of G06.",Role-consistent,Specific,G06,Yes,Sourced,No,None,
+O127,2026-04-20,Olympics,G06,G06 member B,Con argument,Another group,G11,No,49,,Role-consistent,Specific,G11,Yes,None,Yes,None,
+O128,2026-04-20,Olympics,G06,G06 member B,Con argument,Facilitator question or post,G01,No,67,,Explicit role voice,None,,Yes,None,No,Direction,
+O129,2026-04-21,Olympics,G02,G02 member A,Con argument,Facilitator question or post,G01,No,141,"Instagram post, Maioni.",Explicit role voice,None,,Yes,Sourced,No,Direction,
+O130,2026-04-22,Olympics,G01,G01 facilitator B,Position,Top level (new position),,No,22,,Facilitator,,,,None,,,Statement for reflection
+O131,2026-04-22,Olympics,G01,G01 facilitator B,Position,Top level (new position),,No,25,,Facilitator,,,,None,,,Statement for reflection
+O132,2026-04-22,Olympics,G01,G01 facilitator B,Position,Top level (new position),,No,36,,Facilitator,,,,None,,,Statement for reflection
+O133,2026-04-22,Olympics,G01,G01 facilitator B,Position,Top level (new position),,No,30,,Facilitator,,,,None,,,Statement for reflection
+O134,2026-04-22,Olympics,G01,G01 facilitator B,Position,Top level (new position),,No,28,,Facilitator,,,,None,,,Statement for reflection
+O135,2026-04-22,Olympics,G01,G01 facilitator B,Position,Top level (new position),,No,27,,Facilitator,,,,None,,,Statement for reflection
+O136,2026-04-25,Olympics,G01,G01 facilitator A,Position,Top level (new position),,No,42,,Facilitator,,,,None,,,Statement for reflection
+O137,2026-04-29,Olympics,G02,G02 member A,Pro argument,Facilitator question or post,G01,No,64,"Consultative referendum, participatory planning.",Explicit role voice,None,,Yes,None,No,Concrete,
+O138,2026-04-29,Olympics,G02,G02 member A,Pro argument,Facilitator question or post,G01,No,102,,Role-consistent,None,,Yes,None,Yes,Direction,
+O139,2026-05-10,Olympics,G11,G11 member A,Con argument,Facilitator question or post,G01,No,252,,Role-consistent,None,,Yes,Unsourced facts,Yes,None,
+O140,2026-05-10,Olympics,G11,G11 member A,Pro argument,Facilitator question or post,G01,No,167,,Role-consistent,None,,Yes,Unsourced facts,Yes,None,
+O141,2026-05-10,Olympics,G11,G11 member A,Con argument,Facilitator question or post,G01,No,189,"Uses the 400,000 t figure G02 introduced, unattributed.",Role-consistent,Generic,,Yes,Unsourced facts,Yes,Direction,
+O142,2026-05-10,Olympics,G11,G11 member A,Pro argument,Facilitator question or post,G01,No,205,,Role-consistent,None,,Yes,Unsourced facts,Yes,None,
+O143,2026-05-10,Olympics,G11,G11 member A,Pro argument,Facilitator question or post,G01,No,126,,Role-consistent,None,,Yes,None,No,Direction,
+O144,2026-05-10,Olympics,G11,G11 member C,Pro argument,Facilitator question or post,G01,No,155,,Role-consistent,None,,Yes,Unsourced facts,Yes,None,
+O145,2026-05-11,Olympics,G02,G02 member A,Con argument,Facilitator question or post,G01,No,142,,Role-consistent,None,,Yes,None,Yes,Direction,
+O146,2026-05-11,Olympics,G02,G02 member C,Pro argument,Facilitator question or post,G01,No,196,Legal power for locals to contest or approve projects.,Role-consistent,None,,Yes,Unsourced facts,Yes,Concrete + actors + conflicts,
+O147,2026-05-11,Olympics,G02,G02 member C,Con argument,Facilitator question or post,G01,No,118,"Answers G11's ""Games inspire"" argument.",Role-consistent,Specific,G11,Yes,None,Yes,Direction,
+O148,2026-05-11,Olympics,G02,G02 member C,Con argument,Facilitator question or post,G01,No,225,Rotating among a few host cities.,Not role-identifiable,Generic,,Yes,None,Yes,Concrete,
+O149,2026-05-11,Olympics,G02,G02 member C,Pro argument,Facilitator question or post,G01,No,111,,Role-consistent,None,,Yes,None,No,Direction,
+O150,2026-05-11,Olympics,G11,G11 member B,Con argument,Facilitator question or post,G01,No,196,Adopts G02's idea of a limited number of host regions.,Role-consistent,Integrates,G02,Yes,Unsourced facts,Yes,Direction,
+O151,2026-05-11,Olympics,G11,G11 member B,Con argument,Facilitator question or post,G01,No,152,Adopts G02's diversification and locals-first points.,Role-consistent,Integrates,G02,Yes,None,Yes,Direction,
+O152,2026-05-18,Olympics,G06,G06 member A,Con argument,Facilitator question or post,G01,No,66,Concrete version of the rotating-hosts idea.,Role-consistent,Specific,G02,Yes,None,No,Concrete,
+O153,2026-05-18,Olympics,G06,G06 member A,Position,Top level (new position),,No,84,Statement for reflection posted by a debating group.,Role-consistent,None,,Yes,Unsourced facts,No,None,
+O154,2026-05-18,Olympics,G06,G06 member A,Position,Top level (new position),,No,99,Statement for reflection posted by a debating group.,Role-consistent,None,,Yes,Unsourced facts,No,Direction,
+O155,2026-05-18,Olympics,G06,G06 member A,Position,Top level (new position),,No,56,Statement for reflection posted by a debating group.,Role-consistent,None,,Yes,None,No,Direction,
+O156,2026-05-18,Olympics,G09,G09 member A,Pro argument,Facilitator question or post,G01,No,106,,Role-consistent,None,,Yes,None,Yes,None,
+O157,2026-05-24,Olympics,G02,G02 member A,Con argument,Another group,G06,No,185,"Contests G06's statement; Alqedra 2026, Valerio della Sala 2023.",Role-consistent,Specific,G06,Yes,Sourced,No,Concrete,
+O158,2026-05-26,Olympics,G02,G02 member A,Con argument,Facilitator question or post,G01,No,178,Agrees with G11 that legacy matters more than jobs; adds multi-sector job planning.,Role-consistent,Integrates,G11,Yes,None,Yes,Concrete,
+P159,2026-03-17,Parking,G03,G03 member A,Position,Top level (new position),,No,77,,Role-consistent,None,,Yes,None,No,None,
+P160,2026-03-21,Parking,G16,G16 facilitator A,Position,Top level (new position),,No,22,,Facilitator,,,,None,,,Trade-off question
+P161,2026-03-21,Parking,G16,G16 facilitator A,Position,Top level (new position),,No,33,,Facilitator,,,,None,,,Trade-off question
+P162,2026-03-21,Parking,G16,G16 facilitator A,Position,Top level (new position),,No,26,,Facilitator,,,,None,,,Open question
+P163,2026-03-21,Parking,G13,G13 member A,Pro argument,Facilitator question or post,G16,No,103,,Role-consistent,None,,Yes,Unsourced facts,No,None,
+P164,2026-03-22,Parking,G03,G03 member B,Pro argument,Facilitator question or post,G16,No,78,,Role-consistent,None,,Yes,None,Yes,None,
+P165,2026-03-23,Parking,G10,G10 member A,Position,Top level (new position),,No,31,Founding position of the loading-zone thread.,Role-consistent,None,,No,None,No,Concrete,
+P166,2026-03-23,Parking,G03,G03 member C,Pro argument,Facilitator question or post,G16,No,69,,Role-consistent,None,,Yes,None,No,Direction,
+P167,2026-03-23,Parking,G03,G03 member C,Con argument,Facilitator question or post,G16,No,64,,Role-consistent,None,,Yes,None,No,Direction,
+P168,2026-03-23,Parking,G17,G17 member A,Pro argument,Facilitator question or post,G16,No,56,,Role-consistent,None,,Yes,None,No,Concrete,
+P169,2026-03-23,Parking,G17,G17 member A,Pro argument,Facilitator question or post,G16,No,92,"Safety first, then residents.",Role-consistent,None,,Yes,None,Yes,Concrete,
+P170,2026-03-23,Parking,G17,G17 member A,Con argument,Facilitator question or post,G16,No,97,,Explicit role voice,Generic,,Yes,None,Yes,None,
+P171,2026-03-23,Parking,G10,G10 member B,Position,Own group,G10,Yes,130,Own-group reply.,Explicit role voice,None,,Yes,None,No,Concrete,
+P172,2026-03-23,Parking,G17,G17 member A,Con argument,Another group,G10,No,106,"Agrees with G10, adds resident priority and smart parking.",Explicit role voice,Integrates,G10,Yes,None,Yes,Concrete,
+P173,2026-03-25,Parking,G13,G13 member B,Pro argument,Another group,G10,No,145,,Explicit role voice,Specific,G10,Yes,Unsourced facts,Yes,Concrete,
+P174,2026-03-27,Parking,G13,G13 member A,Pro argument,Facilitator question or post,G16,No,102,San Siro events.,Role-consistent,None,,Yes,Unsourced facts,No,None,
+P175,2026-03-29,Parking,G17,G17 member B,Pro argument,Another group,G03,No,54,Asks G03 for solutions.,Role-consistent,Specific,G03,No,None,Yes,None,
+P176,2026-03-29,Parking,G17,G17 member B,Con argument,Facilitator question or post,G16,No,76,Adds to own member's point.,Role-consistent,Generic,,Yes,None,No,None,
+P177,2026-03-29,Parking,G17,G17 member B,Position,Top level (new position),,No,129,,Role-consistent,Generic,,Yes,Unsourced facts,Yes,Direction,
+P178,2026-03-30,Parking,G17,G17 member C,Position,Top level (new position),,No,165,"""As a newcomer to Milan and an urban planner"".",Out of role,None,,Yes,Unsourced facts,No,Direction,
+P179,2026-03-30,Parking,G17,G17 member C,Pro argument,Facilitator question or post,G16,No,48,,Not role-identifiable,None,,Yes,None,No,Direction,
+P180,2026-03-30,Parking,G17,G17 member C,Con argument,Facilitator question or post,G16,No,59,,Not role-identifiable,None,,Yes,None,Yes,None,
+P181,2026-03-30,Parking,G07,G07 member A,Position,Another group,G17,Yes,123,"Rebuts G17's ""necessity"" argument.",Role-consistent,Specific,G17,Yes,None,Yes,Concrete,
+P182,2026-03-30,Parking,G13,G13 member B,Con argument,Another group,G17,No,165,Oliver Wyman 2024.,Role-consistent,Specific,G17,Yes,Sourced,Yes,Direction,
+P183,2026-03-30,Parking,G17,G17 member C,Con argument,Facilitator question or post,G16,No,63,"Argues pedestrians are most affected, against the group's residents line.",Out of role,None,,Yes,None,No,None,
+P184,2026-03-30,Parking,G17,G17 member C,Pro argument,Another group,G10,No,105,Agrees with G13 and G17 points and combines them with resident priority.,Role-consistent,Integrates,"G10, G13",Yes,None,No,Direction,
+P185,2026-03-30,Parking,G03,G03 member C,Con argument,Facilitator question or post,G16,No,56,,Explicit role voice,None,,Yes,None,No,None,
+P186,2026-03-30,Parking,G03,G03 member B,Pro argument,Facilitator question or post,G16,No,62,,Role-consistent,Generic,,Yes,None,Yes,None,
+P187,2026-03-30,Parking,G10,G10 member C,Pro argument,Own group,G10,No,36,Garbled text; own-group agreement.,Role-consistent,None,,Yes,None,No,Direction,
+P188,2026-03-30,Parking,G10,G10 member C,Pro argument,Another group,G17,No,39,,Not role-identifiable,Specific,G17,Yes,None,Yes,None,
+P189,2026-03-30,Parking,G10,G10 member C,Pro argument,Another group,G07,No,29,,Not role-identifiable,Specific,G07,Yes,None,No,None,
+P190,2026-03-30,Parking,G10,G10 member C,Position,Top level (new position),,No,165,,Role-consistent,Generic,,Yes,None,Yes,Concrete,
+P191,2026-03-30,Parking,G10,G10 member C,Position,Own group,G10,Yes,32,Own-group agreement.,Role-consistent,None,,Yes,None,No,Direction,
+P192,2026-03-30,Parking,G03,G03 member C,Con argument,Another group,G17,No,199,ULEZ example.,Explicit role voice,Specific,G17,Yes,Unsourced facts,No,Concrete,
+P193,2026-03-30,Parking,G03,G03 member B,Pro argument,Another group,G17,No,95,"""You are right that..."" but keeps enforcement now.",Explicit role voice,Specific,G17,Yes,None,Yes,Direction,
+P194,2026-04-09,Parking,G10,G10 member B,Position,Another group,G17,Yes,143,,Explicit role voice,Specific,G17,Yes,None,Yes,Concrete,
+P195,2026-04-09,Parking,G10,G10 member B,Pro argument,Another group,G07,No,98,Adopts G07's peripheral parking and combines it with loading zones.,Explicit role voice,Integrates,G07,Yes,None,No,Concrete,
+P196,2026-04-12,Parking,G13,G13 member A,Con argument,Another group,G17,No,206,ATM 2023 survey.,Role-consistent,Specific,G17,Yes,Sourced,Yes,Direction,
+P197,2026-04-13,Parking,G13,G13 member C,Con argument,Another group,G17,No,176,,Role-consistent,Specific,G17,Yes,Unsourced facts,Yes,Direction,
+P198,2026-04-15,Parking,G07,G07 member A,Position,Another group,G10,Yes,62,,Explicit role voice,Specific,G10,Yes,None,Yes,Direction,
+P199,2026-04-20,Parking,G16,G16 facilitator B,Position,Top level (new position),,No,25,,Facilitator,,,,None,,,Open question
+P200,2026-04-20,Parking,G16,G16 facilitator B,Position,Top level (new position),,No,24,,Facilitator,,,,None,,,Open question
+P201,2026-04-20,Parking,G16,G16 facilitator C,Position,Top level (new position),,No,82,Distinguishes four situations and asks which need which tool.,Facilitator,,,,None,,,Options toward a decision
+P202,2026-04-27,Parking,G10,G10 member C,Position,Top level (new position),,No,104,,Explicit role voice,Generic,,Yes,None,Yes,None,
+P203,2026-04-27,Parking,G10,G10 member C,Pro argument,Another group,G03,No,235,Accepts G03's safety point and proposes loading zones that address both.,Explicit role voice,Integrates,G03,Yes,None,Yes,Concrete,
+P204,2026-04-27,Parking,G10,G10 member C,Pro argument,Facilitator question or post,G16,No,213,,Role-consistent,Generic,,Yes,None,Yes,Concrete,
+P205,2026-05-01,Parking,G10,G10 member A,Position,Top level (new position),,No,153,,Explicit role voice,None,,Yes,None,Yes,Concrete,
+P206,2026-05-04,Parking,G07,G07 member A,Position,Facilitator question or post,G16,Yes,63,Takes up G10's point that delivery stops lack alternatives.,Role-consistent,Specific,G10,Yes,None,No,None,
+P207,2026-05-18,Parking,G10,G10 member C,Pro argument,Another group,G07,No,143,,Role-consistent,Specific,G07,Yes,None,Yes,Concrete,
+P208,2026-05-18,Parking,G10,G10 member C,Position,Top level (new position),,No,152,"""Research on urban mobility shows"" without a source.",Role-consistent,None,,Yes,Unsourced facts,Yes,Concrete,
+P209,2026-05-18,Parking,G10,G10 member C,Position,Facilitator question or post,G16,Yes,117,,Role-consistent,None,,Yes,None,Yes,Concrete,
+P210,2026-05-18,Parking,G10,G10 member C,Position,Facilitator question or post,G16,Yes,104,,Role-consistent,Generic,,Yes,None,Yes,None,
+P211,2026-05-18,Parking,G10,G10 member C,Position,Top level (new position),,No,98,,Role-consistent,None,,Yes,None,Yes,Concrete,
+P212,2026-05-18,Parking,G10,G10 member C,Con argument,Another group,G07,No,127,,Role-consistent,Generic,,Yes,None,Yes,Direction,
+P213,2026-05-18,Parking,G10,G10 member C,Position,Top level (new position),,No,104,"Night deliveries negotiated with citizens, workers, businesses and institutions.",Role-consistent,None,,Yes,None,Yes,Concrete + actors + conflicts,
+P214,2026-05-19,Parking,G10,G10 member C,Position,Facilitator question or post,G16,Yes,112,,Role-consistent,Generic,,Yes,None,No,Concrete,
+P215,2026-05-27,Parking,G17,G17 member A,Con argument,Another group,G10,No,102,Agrees with G10 and adds a residents' measure (Barcelona Zona Verda).,Explicit role voice,Integrates,G10,Yes,Unsourced facts,No,Concrete,
+P216,2026-06-02,Parking,G10,G10 member B,Position,Top level (new position),,No,169,Parcel lockers; Paris and Barcelona.,Role-consistent,None,,Yes,Unsourced facts,No,Concrete,
+P217,2026-06-03,Parking,G03,G03 member C,Pro argument,Another group,G10,No,45,,Role-consistent,Specific,G10,Yes,None,No,Direction,
+P218,2026-06-03,Parking,G03,G03 member B,Pro argument,Another group,G10,No,94,Contests G10's framing (filed as a supporting argument).,Role-consistent,Specific,G10,Yes,None,No,Concrete,
+P219,2026-06-03,Parking,G03,G03 member C,Position,Top level (new position),,No,82,,Role-consistent,Generic,,Yes,None,No,Direction,
+P220,2026-06-18,Parking,G10,G10 member A,Position,Top level (new position),,No,300,Concluding statement.,Explicit role voice,Generic,,Yes,None,Yes,Concrete,
